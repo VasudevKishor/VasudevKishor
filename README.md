@@ -3,11 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Open+Source+Contributor;AI+Enthusiast;React+Lover&center=true&width=380&height=45">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/vasudevkishor">
-    <img src="https://komarev.com/ghpvc/?username=vasudevkishor&label=Profile%20views&color=0e75b6&style=flat" alt="vasudevkishor" />
-  </a>
-</p>
+
 
 ---
 

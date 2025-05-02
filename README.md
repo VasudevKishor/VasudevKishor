@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/vasudev-kishor-2a6987216/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/vasudevlalkishor" target="_blank">
+  <a href="https://instagram.com/vsdv.kshr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/vasudevkishor" target="_blank">

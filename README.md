@@ -14,7 +14,7 @@
 ### 💻 Technical Skills
 
 #### 🧠 Areas of Interest:
-Full Stack Development, Machine Learning, Competitive Programming, Mentoring, Design Thinking
+Full Stack Development, Machine Learning, Competitive Programming, Design Thinking
 
 #### 🧑‍💻 Programming Languages:
 <p>

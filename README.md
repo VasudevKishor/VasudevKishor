@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasudev Kishor</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Open+Source+Contributor;AI+Enthusiast;React+Lover&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Open+Source+Contributor;AI+Enthusiast;React&center=true&width=380&height=45">
 </h3>
 
 <p align="center">
